@@ -28,3 +28,4 @@
 27. fix: add cv2.namedWindow before main loop
 28. fix: handle no hand detected edge case gracefully
 29. fix: prevent index error when draw_points is empty
+30. fix: correct BGR color tuples for palette swatches
