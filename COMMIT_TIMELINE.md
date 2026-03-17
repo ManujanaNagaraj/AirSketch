@@ -34,3 +34,4 @@
 33. style: add docstrings to all functions in hand_utils.py
 34. style: add inline comments throughout main.py
 35. docs: update README with gesture controls table
+36. docs: add requirements and how to run section in README
