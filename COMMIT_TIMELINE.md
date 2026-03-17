@@ -22,3 +22,4 @@
 21. feat: add deque-based fingertip smoothing
 22. feat: apply moving average to reduce stroke jitter
 23. refactor: move gesture functions to gesture_engine.py
+24. refactor: move canvas logic to canvas.py
