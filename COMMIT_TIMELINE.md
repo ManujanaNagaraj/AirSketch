@@ -35,3 +35,4 @@
 34. style: add inline comments throughout main.py
 35. docs: update README with gesture controls table
 36. docs: add requirements and how to run section in README
+37. chore: final cleanup and code formatting
