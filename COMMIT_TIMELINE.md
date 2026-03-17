@@ -21,3 +21,4 @@
 20. feat: show Canvas Cleared message for 60 frames
 21. feat: add deque-based fingertip smoothing
 22. feat: apply moving average to reduce stroke jitter
+23. refactor: move gesture functions to gesture_engine.py
