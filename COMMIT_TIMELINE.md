@@ -32,3 +32,4 @@
 31. style: add docstrings to all functions in gesture_engine.py
 32. style: add docstrings to all functions in canvas.py
 33. style: add docstrings to all functions in hand_utils.py
+34. style: add inline comments throughout main.py
