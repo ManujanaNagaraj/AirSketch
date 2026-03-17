@@ -14,3 +14,4 @@
 13. feat: create blank numpy canvas same size as frame
 14. feat: draw strokes on canvas using cv2.line
 15. feat: overlay canvas on webcam frame with addWeighted
+16. feat: add stroke break on pause using None in draw_points
