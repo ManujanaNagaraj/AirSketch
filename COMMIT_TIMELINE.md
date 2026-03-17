@@ -26,3 +26,4 @@
 25. refactor: simplify main.py to only handle webcam loop
 26. fix: correct MediaPipe Hands attribute initialization
 27. fix: add cv2.namedWindow before main loop
+28. fix: handle no hand detected edge case gracefully
