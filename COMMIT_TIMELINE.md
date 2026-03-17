@@ -4,3 +4,4 @@
 3. feat: add landmark drawing on live webcam frame
 4. feat: add get_index_tip function in hand_utils.py
 5. feat: add fingertip coordinate extraction per frame
+6. feat: add is_drawing gesture detection logic
