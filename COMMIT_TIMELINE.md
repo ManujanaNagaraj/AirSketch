@@ -33,3 +33,4 @@
 32. style: add docstrings to all functions in canvas.py
 33. style: add docstrings to all functions in hand_utils.py
 34. style: add inline comments throughout main.py
+35. docs: update README with gesture controls table
