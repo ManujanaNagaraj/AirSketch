@@ -29,3 +29,4 @@
 28. fix: handle no hand detected edge case gracefully
 29. fix: prevent index error when draw_points is empty
 30. fix: correct BGR color tuples for palette swatches
+31. style: add docstrings to all functions in gesture_engine.py
