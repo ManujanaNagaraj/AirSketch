@@ -18,3 +18,4 @@
 17. feat: add color palette bar at top of frame
 18. feat: highlight active color swatch with border
 19. feat: add clear canvas on keypress c
+20. feat: show Canvas Cleared message for 60 frames
