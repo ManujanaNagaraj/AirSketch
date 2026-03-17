@@ -11,3 +11,4 @@
 10. feat: add count_fingers utility function
 11. feat: add get_active_color gesture color switching
 12. feat: wire color switching into main loop
+13. feat: create blank numpy canvas same size as frame
