@@ -9,3 +9,4 @@
 8. feat: add is_erasing pinch gesture detection
 9. feat: show red circle on screen when erase mode active
 10. feat: add count_fingers utility function
+11. feat: add get_active_color gesture color switching
