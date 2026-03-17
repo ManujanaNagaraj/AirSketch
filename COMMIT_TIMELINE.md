@@ -17,3 +17,4 @@
 16. feat: add stroke break on pause using None in draw_points
 17. feat: add color palette bar at top of frame
 18. feat: highlight active color swatch with border
+19. feat: add clear canvas on keypress c
