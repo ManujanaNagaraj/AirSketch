@@ -7,3 +7,4 @@
 6. feat: add is_drawing gesture detection logic
 7. feat: wire is_drawing to main loop draw/pause toggle
 8. feat: add is_erasing pinch gesture detection
+9. feat: show red circle on screen when erase mode active
