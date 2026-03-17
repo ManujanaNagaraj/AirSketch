@@ -12,3 +12,4 @@
 11. feat: add get_active_color gesture color switching
 12. feat: wire color switching into main loop
 13. feat: create blank numpy canvas same size as frame
+14. feat: draw strokes on canvas using cv2.line
