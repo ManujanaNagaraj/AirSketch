@@ -16,3 +16,4 @@
 15. feat: overlay canvas on webcam frame with addWeighted
 16. feat: add stroke break on pause using None in draw_points
 17. feat: add color palette bar at top of frame
+18. feat: highlight active color swatch with border
