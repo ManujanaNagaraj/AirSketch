@@ -24,3 +24,4 @@
 23. refactor: move gesture functions to gesture_engine.py
 24. refactor: move canvas logic to canvas.py
 25. refactor: simplify main.py to only handle webcam loop
+26. fix: correct MediaPipe Hands attribute initialization
