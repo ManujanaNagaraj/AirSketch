@@ -6,3 +6,4 @@
 5. feat: add fingertip coordinate extraction per frame
 6. feat: add is_drawing gesture detection logic
 7. feat: wire is_drawing to main loop draw/pause toggle
+8. feat: add is_erasing pinch gesture detection
